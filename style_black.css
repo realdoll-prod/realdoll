@@ -1,0 +1,38 @@
+/* Statisch */
+.body {color: #515151;}
+#wrapper a {color:#515151;}
+
+a {color: #000;}
+a:hover {text-decoration: none;}
+/* Statisch Ende */
+
+
+
+/* Header */
+
+/* Header Ende */
+
+@media screen and (max-width: 992px) {
+    #bottom.row {padding:0px!important;margin:0px!important}
+}
+
+
+#left_content .block h2,
+#left_content .block h3 {color: #666;}
+#left_content .block ul li {color: #515151;}
+
+
+.panel-default{border:1px solid #ECECEC!important}
+
+/* Gallery */
+#gallery a:focus strong,
+#gallery a:active strong {color: #000;}
+.gallery li {border: 1px solid #ededed;}
+.gallery li:hover {border: 1px solid #000;}
+.thumb-img { border: 1px solid #C7C7CB; }
+/* Gallery Ende */
+
+/**** footer ****/
+footer #f-content {color:#fff;font-weight:300;}
+
+.slider label .imgPos {border:1px solid #ECECEC;}
